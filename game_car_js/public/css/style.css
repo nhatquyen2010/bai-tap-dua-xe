@@ -1,0 +1,103 @@
+.item1 {
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.item2 {
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.item3 {
+    border-radius: 50%;
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.b1 {
+    height: 50px;
+    width: 80px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    margin: 20px 10px;
+}
+
+.x1{
+    border: 2px solid black;
+    width: 100px;
+    height: 10px;
+}
+
+.item4 {
+    width: 100px;
+    height: 10px;
+    display: flex;
+    margin-top: 0px;
+    background-color: green;
+}
+.x2{
+    border: 2px solid black;
+    width: 100px;
+    height: 10px;
+}
+.item5 {
+    width: 100px;
+    height: 10px;
+    float: left;
+    margin-top: 0px;
+    background-color: green;
+}
+
+.street .dg {
+    padding-top: 30px;
+    width: 100px;
+}
+
+.street .dg img {
+    width: 1510px;
+    height: 360px;
+}
+
+.car1 img{
+    margin-top: -343px;
+    margin-left: -24px;
+    display: flex;
+}
+.car2 img{
+    margin-top: 35px;
+    display: flex;
+}
+.b2{
+    height: 50px;
+    width: 80px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    margin: 20px 10px;
+    margin-top: 90px;
+    margin-left: 650px;
+}
+
+.street .end {
+    width: 20px;
+    height: 100%;
+    background: yellow;
+    float: right;
+    margin-top: -358px;
+    margin-right: 48px;
+}
